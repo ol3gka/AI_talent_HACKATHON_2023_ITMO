@@ -8,8 +8,8 @@
 ```1) Построение ML пайплайна ``` 
 <!-- #region -->
 <p align="center">
-<img  src="1.png">
-  <img  src="2.png">
+<img  src="pictures/1.png">
+  <img  src="pictures/2.png">
 </p>
 
 Подход на основе lightgbm и Optuna, обученная модель в формате pickle в дальнейшем передается в графический итерфейс для проведения расчета
