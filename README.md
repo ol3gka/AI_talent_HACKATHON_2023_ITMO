@@ -12,5 +12,5 @@
 
 <!-- #region -->
 <p align="center">
-<img  src="pictures/Скриншот 09-09-2023 00.00.43.png.png">
+<img  src="pictures/Скриншот 09-09-2023 00.00.43.png">
 </p>
