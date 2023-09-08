@@ -8,7 +8,7 @@
 ```1) Построение ML пайплайна ``` 
 <!-- #region -->
 <p align="center">
-<img  src="pictures/1.png" width="200">
+<img  src="pictures/1.png" width="20">
   <img  src="pictures/2.png">
 </p>
 
