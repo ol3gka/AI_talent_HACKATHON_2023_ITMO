@@ -9,7 +9,7 @@
 <!-- #region -->
 <p align="center">
 <img  src="pictures/1.png" width="200">
-  <img  src="pictures/2.png">
+  <img  src="pictures/2.png" width="200">
 </p>
 
 Подход на основе lightgbm и Optuna, обученная модель в формате pickle в дальнейшем передается в графический итерфейс для проведения расчета
